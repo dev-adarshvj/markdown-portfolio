@@ -1,13 +1,56 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+  <br />
+  <br />
+  
+  <img src="./readme-images/project-logo.png" />
 
-Oh! I haven't introduced myself...
+  <h2 align="center">Jack - Personal portfolio</h2>
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
 
-I'll meet you over there, can't wait to get started!
+</div>
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+<br />
+
+### Demo Screeshots
+
+![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **jack-portfolio** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/jack-portfolio.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
